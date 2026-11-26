@@ -1,0 +1,4 @@
+# Public repo: ignore everything unless explicitly allowed
+*
+!.gitignore
+!init.lua
